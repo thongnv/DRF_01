@@ -7,6 +7,7 @@ django-fsm==2.2.1
 Pillow==2.9.0
 django-imagekit==3.2.6
 django-rest-swagger==0.3.0
+django-transaction-hooks==0.2
 djangorestframework-gis==0.8.2
 requests==2.7.0
 python-dateutil==2.4.2
